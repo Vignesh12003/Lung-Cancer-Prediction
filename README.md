@@ -1,4 +1,25 @@
-# Lung-Cancer-Prediction
-
-<img width="546" height="393" alt="graph_0" src="https://github.com/user-attachments/assets/53885274-3e09-44a4-ae1b-dfd036c40688" />
-<img width="546" height="393" alt="graph_0" src="https://github.com/user-attachments/assets/51121d7f-6fb5-4877-a732-9a92c4f4b9c6" />
+# Lung-Cancer-Prediction 
+Project Screenshots
+![img4](https://github.com/user-attachments/assets/3d549f3a-8780-4124-90f3-a1d10202e556)
+![img7](https://github.com/user-attachments/assets/93a34432-44c9-4990-8f15-2e07173a3aae)
+![img10](https://github.com/user-attachments/assets/f6e21879-8756-4dea-9837-2819d6d3fc1c)
+![img13](https://github.com/user-attachments/assets/9ce1e217-01f6-4a5b-9348-6615b812934d)
+![img16](https://github.com/user-attachments/assets/37671892-fb4b-4048-84ff-55382be13fae)
+![img19](https://github.com/user-attachments/assets/98c750f4-15ef-46ca-97cf-5bb3d1b25e93)
+![img22](https://github.com/user-attachments/assets/aaff1df7-c435-4fdb-8501-7214ae7325ce)
+![img25](https://github.com/user-attachments/assets/72b63d63-5c84-4e92-b2e3-85ec02ac132d)
+![img28](https://github.com/user-attachments/assets/74b983d9-7371-4074-a480-8e6cdb7017c0)
+![img31](https://github.com/user-attachments/assets/e570bb52-b5d5-4dcd-b89d-733567030e1f)
+![img34](https://github.com/user-attachments/assets/68a3b3b9-ceb2-4f3f-9b2b-f6e80d577091)
+![img37](https://github.com/user-attachments/assets/b53b29e0-7ad0-45b8-9a99-10b23e7447cd)
+![img40](https://github.com/user-attachments/assets/8bce6eba-c493-41ee-898f-e903d9de00f7)
+![img43](https://github.com/user-attachments/assets/7ea6782a-2145-4581-9c11-273d6ae2f7c4)
+![img46](https://github.com/user-attachments/assets/4b3a0330-8716-4338-969a-05eb4c435930)
+![img49](https://github.com/user-attachments/assets/b1a8f927-c719-46d9-a119-acbfe6a8f937)
+![img52](https://github.com/user-attachments/assets/8f241539-9792-419b-b38e-3684a69f3d51)
+![img55](https://github.com/user-attachments/assets/7a79855b-05ea-4684-9a29-8acb4c1619a6)
+![img58](https://github.com/user-attachments/assets/856a6a5c-0568-4b0f-b95e-848cf5267439)
+![img61](https://github.com/user-attachments/assets/534e1ab4-499a-412e-b87e-8eb830ae3801)
+![img64](https://github.com/user-attachments/assets/4b7ad390-3f46-4c9b-865e-9c382b65f7da)
+![img69](https://github.com/user-attachments/assets/f269b08d-dc66-4270-9e26-901a12341d67)
+![img72](https://github.com/user-attachments/assets/ba88bf52-bd5b-438f-904a-44d3222d50ec)
