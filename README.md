@@ -1,5 +1,27 @@
 # Lung-Cancer-Prediction 
-Project Screenshots
+# About Project
+
+Lung cancer prediction helps in early detection, which can significantly improve survival rates.
+
+The system analyzes medical data or lung images to identify cancer-related patterns.
+
+Machine learning algorithms are used to classify cases as cancerous or non-cancerous.
+
+Image processing techniques enhance lung images for better feature extraction.
+
+Important features such as texture, shape, and intensity are considered for prediction.
+
+The model reduces manual effort and supports doctors in decision-making.
+
+Automated prediction improves accuracy and consistency compared to traditional methods.
+
+The system can process large datasets efficiently with minimal human intervention.
+
+Results are presented in a clear and understandable format for easy interpretation.
+
+The prediction system can be enhanced further with deep learning and larger datasets.
+
+# Project Screenshots
 ![img4](https://github.com/user-attachments/assets/3d549f3a-8780-4124-90f3-a1d10202e556)
 ![img7](https://github.com/user-attachments/assets/93a34432-44c9-4990-8f15-2e07173a3aae)
 ![img10](https://github.com/user-attachments/assets/f6e21879-8756-4dea-9837-2819d6d3fc1c)
